@@ -330,7 +330,7 @@ export default function LandingPage() {
                   className="w-full h-auto object-cover rounded-[10%]"
                   width={800}
                   height={600}
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/MR_K0258%20(1)-SX7MXtU9K2irM1kpUiAraj2aQfC3Aw.jpg"
+                  src=""
                   priority
                 />
               </div>
