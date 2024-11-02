@@ -408,7 +408,7 @@ export default function LandingPage() {
                   className="rounded-xl object-cover w-full h-full"
                   height="600"
                   width="800"
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/MR_K0258%20(1)-UfkppJULG3SSQ8X48GV74gjk4CSy8Y.jpg"
+                  src=""
                 />
               </div>
               <div className="w-full lg:w-1/2 flex flex-col justify-center space-y-4 mt-8 lg:mt-0">
@@ -505,7 +505,7 @@ export default function LandingPage() {
                     <Card className="p-6 bg-white rounded-[10px] shadow-none">
                       <div className="w-full aspect-[114/100] mb-4 relative rounded-[10px] overflow-hidden">
                         <Image
-                          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/MR_K0258%20(1)-UfkppJULG3SSQ8X48GV74gjk4CSy8Y.jpg"
+                          src=""
                           alt={doctor.name}
                           layout="fill"
                           objectFit="cover"
